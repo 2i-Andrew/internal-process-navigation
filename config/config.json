@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "internal-process-navigation-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/internalProcessNavigation/InternalProcessNavigationWebPart.js",
+          "manifest": "./src/webparts/internalProcessNavigation/InternalProcessNavigationWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "InternalProcessNavigationWebPartStrings": "lib/webparts/internalProcessNavigation/loc/{locale}.js"
+  }
+}

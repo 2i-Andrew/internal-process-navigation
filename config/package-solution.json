@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "internal-process-navigation-client-side-solution",
+    "id": "6a8ce5c1-864a-4045-b5ab-052c3ffd20d4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "internal-process-navigation description"
+      },
+      "longDescription": {
+        "default": "internal-process-navigation description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "internal-process-navigation Feature",
+        "description": "The feature that activates elements of the internal-process-navigation solution.",
+        "id": "2cb1ce18-e49e-4fdd-b7f9-0a1f012580ed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/internal-process-navigation.sppkg"
+  }
+}

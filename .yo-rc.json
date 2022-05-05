@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "internal-process-navigation",
+    "libraryId": "6a8ce5c1-864a-4045-b5ab-052c3ffd20d4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "internal-process-navigation",
+    "solutionShortDescription": "internal-process-navigation description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
